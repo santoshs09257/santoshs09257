@@ -56,7 +56,7 @@ https://github.com/santoshs09257/customer-churn-retention-revenue-analysis
 
 ## 🤝 Connect With Me
 
-LinkedIn: Add your LinkedIn link here
+LinkedIn: www.linkedin.com/in/santosh-kumar-mishra-2415a9252
 
 ---
-⭐ Open to Senior Data Analyst / Power BI Opportunities
+⭐ Senior Data Analyst | Power BI | SQL | Python | Open to Work
